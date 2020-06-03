@@ -1,7 +1,6 @@
 #!/usr/bin/env python3
 import socket
 import sys
-import time
 from threading import Thread
 
 s = socket.socket()
